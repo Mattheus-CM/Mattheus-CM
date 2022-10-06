@@ -1,6 +1,6 @@
 ## 👋 Opa, bem vindo ao meu perfil do Github!
 
-Meu nome é Mattheus Carvalho, tenho 20 anos e eu sou graduando em Análise e Desenvolvimento de Sistemas no IFNMG - campus Almenara. Antes de iniciar a graduação, eu me formei como técnico em informática também no IFNMG. Atualmente, meu objetivo é me tornar um desenvolvedor front-end.
+Meu nome é Mattheus Carvalho, tenho 20 anos e eu sou graduando em Análise e Desenvolvimento de Sistemas no IFNMG - campus Almenara. Antes de iniciar a graduação, eu me formei como técnico em informática também no IFNMG.
 
 ### Atualmente eu estou estudando essas tecnologias:
 
