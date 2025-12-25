@@ -1,9 +1,8 @@
-# 👋 Opa, bem vindo ao meu perfil do Github!
+# 👋 Olá, bem vindo ao meu perfil do Github!
 
 <br/><br/>
 
 - 🧑‍💻 Sou graduando em Análise e Desenvolvimento de Sistemas no IFNMG - campus Almenara.
-- 🕹️ Gosto muito de Futebol, CS e as vezes assisto um Basquete.
 - 📚 Atualmente, estudando Ruby on Rails, Java, Spring e aprendendo um pouco de front com React.
 - 🎓 Antes de iniciar a graduação, eu me formei como técnico em informática também no IFNMG.
 
