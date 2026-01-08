@@ -1,10 +1,13 @@
-# 👋 Olá, bem vindo ao meu perfil do Github!
+<h1 align="center">Eai, eu sou o Mattheus Martins 👋</h1>
+<br/>
+<p align="center">Software Developer • Análise e Desenvolvimento de Sistemas</p>
+<br/>
 
-<br/><br/>
+---
 
-- 🧑‍💻 Sou graduando em Análise e Desenvolvimento de Sistemas no IFNMG - campus Almenara.
-- 📚 Atualmente, estudando Ruby on Rails, Java, Spring e aprendendo um pouco de front com React.
-- 🎓 Antes de iniciar a graduação, eu me formei como técnico em informática também no IFNMG.
+<p>Graduando em Análise e Desenvolvimento de Sistemas pelo IFNMG – campus Almenara. Atualmente atuo como Desenvolvedor Full Stack, com pouco mais de 1 ano de experiência.</p>
+
+---
 
 <br/><br/>
 
